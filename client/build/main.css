@@ -1,0 +1,20 @@
+body {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  background-color: #f0f0f5
+}
+
+.star-wars-box {
+  margin-right: 50%;
+  text-align: center;
+  color: dodgerBlue;
+ 
+}
+
+.song {
+  color: #8600b3;
+  text-align: center;
+  border-bottom: 1px solid black;
+  padding: 10px;
+}
